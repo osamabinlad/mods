@@ -34,8 +34,9 @@ As an example, my JVM ARGUMENTS field reads:
 Notice that the first flag has been changed to six gigabytes. If you fear that you've broken your Minecraft, simply click the reset button beside this field.
 
 **4. Adding the server**
+
 Launch the forge installation and wait for it to open. It may take a while on the first launch.
-Head to multiplayer and add the server address listed in the #modpack channel.
+Head to multiplayer and add the server address listed in the #server-announcements channel.
 If the server won't open for you, you probably need to update your modpack (I explain hwo to do this in the next section).
 
 
